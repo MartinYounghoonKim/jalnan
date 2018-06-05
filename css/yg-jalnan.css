@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'yg-jalnan';
+    src: url('../fonts/yg-jalnan.eot');
+    src: url('../fonts/yg-jalnan.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/yg-jalnan.woff') format('woff'),
+    url('../fonts/yg-jalnan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
