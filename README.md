@@ -7,12 +7,12 @@ Jalnan 체는 총 2가지 방법으로 설정할 수 있으며 CSS 혹은 HTML �
 
 ##### HTML 파일에 포함할 경우
 ```html
-<link href='../css/yg-jalnan.css' rel='stylesheet' type='text/css'>
+<link href='//withinnovation.github.io/jalnan/css/yg-jalnan.css' rel='stylesheet' type='text/css'>
 ```
 
 ##### CSS 파일에 포함할 경우
 ```css
-@import url('../css/yg-jalnan.css');
+@import url('//withinnovation.github.io/jalnan/css/yg-jalnan.css');
 ```
 
 위와 같이 포함이 완료된 경우는 아래와 같이 style에 font-family 를 설정해주면 됩니다.
